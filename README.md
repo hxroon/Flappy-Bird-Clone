@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/52601854/213018372-97ef9b68-f65d-4e97-
 
 
 # To Add
-Incorporate spacebar to jump
-Add menu screen
-Presented with game over screen showing player final score
-The player can press the spacebar to restart the game
+* Incorporate spacebar to jump
+* Add menu screen
+* Presented with game over screen showing player final score
+* The player can press the spacebar to restart the game
