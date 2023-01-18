@@ -15,7 +15,7 @@ The player earns a point for every pipe that is successfully passed which is dis
 # Game over
 The game ends when the bird collides with a pipe or falls to the ground
 
-# Game Screen Recording
+# Game Preview
 https://user-images.githubusercontent.com/52601854/213018372-97ef9b68-f65d-4e97-9c16-dc96be07cdb7.mov
 
 
