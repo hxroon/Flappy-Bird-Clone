@@ -19,7 +19,7 @@ The game ends when the bird collides with a pipe or falls to the ground
 https://user-images.githubusercontent.com/52601854/213018372-97ef9b68-f65d-4e97-9c16-dc96be07cdb7.mov
 
 
-# To Add
+# In Progress
 * Incorporate spacebar to jump
 * Add menu screen
 * Presented with game over screen showing player final score
